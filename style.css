@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500&family=Inspiration&family=Poppins:ital,wght@1,300&family=Shrikhand&family=Silkscreen&display=swap');
+
+*{
+    font-family: 'Heebo', sans-serif;
+   
+}
+#img{
+    background: url(https://mmc.tirto.id/image/2021/08/16/istock-1219430161_ratio-16x9.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: red;
+    padding: 500px;
+}
+.text{
+    padding: 12px;
+}
+.jawab{
+    padding: 12px;
+}
+.router{
+    padding: auto;
+}
+.wrapper{
+    
+    width: 80%;
+    padding: 20px;
+    text-decoration: none;
+    text-indent: 10px;
+}
